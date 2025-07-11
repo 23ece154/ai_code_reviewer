@@ -27,24 +27,34 @@ AI Code Reviewer is a web-based tool that allows developers to submit code snipp
 ![Screenshot 2025-05-15 090410](https://github.com/user-attachments/assets/4f07de9d-184e-4718-91ef-b01adcddf5e0)
 
 Frontend Setup
+
 cd client
+
 npm install
+
 npm start
 
 Backend Setup
+
 cd server
+
 npm install
+
 touch .env
 
 Configure .env in /server
-GROQ_API_KEY = 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
+
+GROQ_API_KEY = your_groq_api_key
 
 
 🙌 Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 🤝 Acknowledgements
+
 Groq API
+
 Deepseek
 [OpenAI GPT models]
 
