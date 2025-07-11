@@ -39,13 +39,6 @@ touch .env
 Configure .env in /server
 GROQ_API_KEY = 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
 
-📌 Future Enhancements
-
-🔐 User Authentication (Login/Signup)
-💾 Persistent Code Review History
-🌐 GitHub/GitLab Integration
-📲 Mobile-Friendly Interface
-📢 Real-time Notifications
 
 🙌 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
